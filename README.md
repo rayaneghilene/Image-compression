@@ -1,21 +1,14 @@
 # Image-compression
+![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/283948d09f73231c4cfba91becbe4bb01973b4f4/Ensea_linkedin_banner10.png)
 
-Image compression using autoencoders: a deep learning task
+## Goal of this lab
 
-
-# Goal of this lab
 Get to know deep learning and PyTorch framework
 Learn how to compress images using autoencoders
 Understand the differences between JPEG compression and deep learning-based compression
 Know how to read and use code given by someone else
-# Outline
-0 - Introduction and documents reading
-1 - Discovering a dataset
-2 - Creating a model
-3 - Training the model
-4 - Testing the model
-5 - Reporting the findings
-# Disclaimer
+
+## Disclaimer
 
 We will refer to :
 
